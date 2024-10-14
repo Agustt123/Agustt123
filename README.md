@@ -8,15 +8,14 @@ GitHub: Agustt123
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Sobre mí
 Soy un Desarrollador Full Stack con especialización en back-end. Tengo experiencia en múltiples tecnologías como NodeJS, TypeScript, React, PostgreSQL, y Docker, entre otras.
 
-Proyectos recientes
-Backend Developer - Comunidad Booknity: Desarrollo de una comunidad lectora con sistema de donaciones y autenticación con terceros. Repositorio
-Backend Developer - Ecommerce: Implementación de API para una plataforma de comercio electrónico. Repositorio
-Full Stack Developer - Consultora Odontológica: Sistema de gestión de turnos para una consultora. Repositorio
-Full Stack Developer - Cartelera de Cine: Aplicación de cartelera de cine con datos de API externa. Repositorio
-Habilidades técnicas
-javascript
-Copiar código
-const tech = ['NodeJS', 'TypeScript', 'React', 'PostgreSQL', 'Docker', 'C#', 'Python', 'Git', 'NoSQL', 'HTML', 'CSS'];
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Me encanta conectar con diferentes personas</b>, ¡así que si quieres saludar, estaré encantado de conocerte!</em>
+## Proyectos recientes
 
-⭐️ Desde @Agustt123
+- **Backend Developer - [Comunidad Booknity](https://github.com/Agustt123/Booknity.git):** Desarrollo de una comunidad lectora con sistema de donaciones y autenticación con terceros.
+- **Backend Developer - [Ecommerce](https://github.com/Agustt123/Ecommerce-back):** Implementación de API para una plataforma de comercio electrónico.
+- **Full Stack Developer - [Consultora Odontológica](https://github.com/Agustt123/Turnos-odontologia):** Sistema de gestión de turnos para una consultora.
+- **Full Stack Developer - [Cartelera de Cine](https://github.com/Agustt123/Cartelera-de-cine-.git):** Aplicación de cartelera de cine con datos de API externa.
+
+## Habilidades técnicas
+
+```javascript
+const tech = ['NodeJS', 'TypeScript', 'React', 'PostgreSQL', 'Docker', 'C#', 'Python', 'Git', 'NoSQL', 'HTML', 'CSS'];
