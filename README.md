@@ -1,7 +1,7 @@
 
 Aquí tienes el README de GitHub en español, basado en tu CV:
 
-<h2> ¡Hola, soy Agustín Trachesky! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="70"></h2> <img align='right' src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="300"> <h3><em>Estudiante de Ingeniería Informática en <a href="https://www.unaj.edu.ar/">Universidad Arturo Jauretche</a> <img src="https://www.universidadesargentinas.com.ar/images/universities/logos/unaj.webp" width="30"></em></h3>
+<h2> ¡Hola, soy Agustín Trachesky! </h2>  <h3><em>Estudiante de Ingeniería Informática en <a href="https://www.unaj.edu.ar/">Universidad Arturo Jauretche</a> <img src="https://www.universidadesargentinas.com.ar/images/universities/logos/unaj.webp" width="30"></em></h3>
 LinkedIn: Agustín Trachesky
 GitHub: Agustt123
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Sobre mí
