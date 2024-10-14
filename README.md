@@ -1,5 +1,4 @@
 
-Aquí tienes el README de GitHub en español, basado en tu CV:
 
 <h2> ¡Hola, soy Agustín Trachesky! </h2>  <h3><em>Estudiante de Ingeniería Informática en <a href="https://www.unaj.edu.ar/">Universidad Arturo Jauretche</a> <img src="https://www.universidadesargentinas.com.ar/images/universities/logos/unaj.webp" width="30"></em></h3>
 LinkedIn: Agustín Trachesky
