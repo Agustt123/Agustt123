@@ -19,5 +19,6 @@ Soy un Desarrollador Full Stack con especialización en back-end. Tengo experien
 
 ```javascript
 const tech = ['NodeJS', 'TypeScript', 'React', 'PostgreSQL', 'Docker', 'C#', 'Python', 'Git', 'NoSQL', 'HTML', 'CSS'];
+```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> *Me encanta conectar con diferentes personas, ¡así que si quieres saludar, estaré encantado de conocerte!* ```
