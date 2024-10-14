@@ -5,7 +5,7 @@ Aquí tienes el README de GitHub en español, basado en tu CV:
 LinkedIn: Agustín Trachesky
 GitHub: Agustt123
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Sobre mí
+Sobre mí
 Soy un Desarrollador Full Stack con especialización en back-end. Tengo experiencia en múltiples tecnologías como NodeJS, TypeScript, React, PostgreSQL, y Docker, entre otras.
 
 ## Proyectos recientes
