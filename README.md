@@ -1,9 +1,26 @@
 
 
-<h2> ¡Hola, soy Agustín Trachesky! </h2>  <h3><em>Estudiante de Ingeniería Informática en <a href="https://www.unaj.edu.ar/">Universidad Arturo Jauretche</a> <img src="https://www.universidadesargentinas.com.ar/images/universities/logos/unaj.webp" width="30"></em></h3>
-LinkedIn: Agustín Trachesky
-GitHub: Agustt123
-Email: agustintracheskyoficial@gmail.com
+<h2>¡Hola, soy Agustín Trachesky!</h2>  
+<h3><em>Estudiante de Ingeniería Informática en 
+  <a href="https://www.unaj.edu.ar/">Universidad Arturo Jauretche</a> 
+  <img src="https://www.universidadesargentinas.com.ar/images/universities/logos/unaj.webp" width="30"></em>
+</h3>
+
+<p>
+  <strong>LinkedIn:</strong> 
+  <a href="https://linkedin.com/in/agustintrachesky">Agustín Trachesky</a><br>
+  <strong>GitHub:</strong> 
+  <a href="https://github.com/Agustt123">Agustt123</a><br>
+  <strong>Email:</strong> 
+  <a href="mailto:agustintracheskyoficial@gmail.com">agustintracheskyoficial@gmail.com</a>
+</p>
+
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+<h3>Sobre mí</h3>
+<p>
+Soy un Desarrollador Full Stack con especialización en back-end. Tengo experiencia en múltiples tecnologías como NodeJS, TypeScript, React, PostgreSQL, y Docker, entre otras.
+</p>
+
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Sobre mí
 Soy un Desarrollador Full Stack con especialización en back-end. Tengo experiencia en múltiples tecnologías como NodeJS, TypeScript, React, PostgreSQL, y Docker, entre otras.s.
 
