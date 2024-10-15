@@ -21,8 +21,6 @@
 Soy un Desarrollador Full Stack con especialización en back-end. Tengo experiencia en múltiples tecnologías como NodeJS, TypeScript, React, PostgreSQL, y Docker, entre otras.
 </p>
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Sobre mí
-Soy un Desarrollador Full Stack con especialización en back-end. Tengo experiencia en múltiples tecnologías como NodeJS, TypeScript, React, PostgreSQL, y Docker, entre otras.s.
 
 ## Proyectos recientes
 
