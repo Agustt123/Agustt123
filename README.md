@@ -1,41 +1,44 @@
 # 👋 Hola, soy Agustín Trachesky
 
-### Backend Software Engineer | Node.js | TypeScript
+## Backend Software Engineer
 
-💻 Desarrollador Backend con experiencia en APIs REST, microservicios e integraciones para logística y e-commerce.
+Desarrollador Backend con experiencia profesional construyendo APIs REST, microservicios e integraciones para sistemas de logística y e-commerce.
 
-🚀 Actualmente trabajo con:
-
-- Node.js
-- TypeScript
-- PostgreSQL
-- MySQL
-- Redis
-- RabbitMQ
-- Git
-- Linux
-
-🌱 Actualmente aprendiendo:
-
-- C#
-- .NET
-- Arquitectura de Software
+Actualmente trabajo principalmente con Node.js y TypeScript, desarrollando soluciones escalables, procesamiento asíncrono e integración entre distintos sistemas.
 
 ---
 
-## 🚀 Proyectos
+## 💻 Stack
 
-📚 [Booknity](https://github.com/Agustt123/Booknity)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,ts,js,postgres,mysql,redis,rabbitmq,docker,git,github,linux,aws" />
+</p>
 
-🛒 [Ecommerce API](https://github.com/Agustt123/Ecommerce-back)
+---
 
-🦷 [Sistema de Turnos](https://github.com/Agustt123/Turnos-odontologia)
+## 🚀 Actualmente
 
-🎬 [Cartelera de Cine](https://github.com/Agustt123/Cartelera-de-cine-)
+- Desarrollo de APIs REST
+- Arquitectura de microservicios
+- Integraciones entre plataformas
+- Optimización de bases de datos
+- Automatización de procesos
+- Aprendiendo .NET y C#
+
+---
+
+## 📈 GitHub Stats
+
+<p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Agustt123&show_icons=true&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agustt123&layout=compact&hide_border=true"/>
+</p>
 
 ---
 
 ## 📫 Contacto
 
-- 💼 LinkedIn: https://linkedin.com/in/agustintrachesky
-- 📧 agustintracheskyoficial@gmail.com
+💼 LinkedIn  
+www.linkedin.com/in/agustintrachesky
+
+📧 agustintracheskyoficial@gmail.com
